@@ -1,3 +1,3 @@
 #My portfolio
 
-visit my portfolio site her [https://github.com/RAJA5401/my_portfolio.git]
+visit my portfolio site her [https://raja5401.github.io/my_portfolio/]
